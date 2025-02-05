@@ -115,7 +115,6 @@ vendor/bin/hw/vendor.mediatek.hardware.pq@2.2-service
 vendor/bin/hw/vendor.trustonic.tee@1.1-service
 vendor/bin/hw/vtservice_hidl
 vendor/bin/ipsec_mon
-vendor/bin/iwpriv
 vendor/bin/iwpriv_moto
 vendor/bin/jpegtool
 vendor/bin/lbs_hidl_service
