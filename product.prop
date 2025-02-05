@@ -1,0 +1,14 @@
+# Miscellaneous
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.com.google.gmsversion=14_202401
+ro.config.alarm_alert=Helium.ogg
+ro.config.notification_sound=Hello.ogg
+ro.config.ringtone=Moto.ogg
+ro.dalvik.vm.enable_uffd_gc=true
+ro.opa.eligible_device=true
+ro.product.ab_ota_partitions=boot,product,system,system_ext,vendor
+ro.product.build.version.sub=123
+ro.product.cpu.pagesize.max=4096
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+
