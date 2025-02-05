@@ -48,3 +48,4 @@ import /vendor/etc/init/nvram_daemon.rc
 import /vendor/etc/init/microtrust.bp_kmsetkey_ca.rc
 import /vendor/etc/init/vendor.microtrust.hardware.thh@2.0-service.rc
 import /vendor/etc/init/microtrust.init_thh.rc
+import /android.hardware.lights.penangf.rc

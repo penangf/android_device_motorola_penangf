@@ -118,6 +118,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.3-service
 
+# Light
+PRODUCT_PACKAGES += \
+    android.hardware.lights-service.penangf
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey
