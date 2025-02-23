@@ -124,5 +124,8 @@ prebuilt_etc {
     src: "fstab.mt6768",
     vendor: true,
     ramdisk_available: true,
-    vendor_ramdisk_available: true,
 }
+
+Change it to this and build 
+
+fstab.mt6768.ramdisk

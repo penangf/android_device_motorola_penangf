@@ -306,8 +306,8 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.mtkpower@1.2.vendor
 
 # Power Off Alarm
-PRODUCT_PACKAGES += \
-    PowerOffAlarm
+#PRODUCT_PACKAGES += \
+#    PowerOffAlarm
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 33
